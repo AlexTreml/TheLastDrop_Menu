@@ -2,7 +2,7 @@
 
 This repository release contains a standalone executable showcasing the **original Unreal Engine-based UI system** developed during the project.
 
-> **Note:** Please see **Release 1** on right hand side of page to download and run the standalone executable (`.exe`) of the UI system.
+> **Note:** Please see **Releases 1** on right hand side of page to download and run the standalone executable (`.exe`) of the UI system.
 
 ## About this Repository
 This repository contains the UI system assets and Blueprints related to the standalone menu demonstration. The full game project is not included here.
