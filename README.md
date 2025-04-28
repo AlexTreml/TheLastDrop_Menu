@@ -38,7 +38,6 @@ The full group project repository is currently private as of submission date. If
 
 ## Important Notes
 - This executable was created to document and demonstrate the menu system before external changes were made during final project integration.
-- Some visual inconsistencies may exist compared to the final team build.
 - Settings changes (e.g., resolution, contrast) are saved between sessions using a hybrid SaveGame system.
 
 ## Video Walkthrough
