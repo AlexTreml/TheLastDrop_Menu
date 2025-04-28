@@ -4,6 +4,14 @@ This repository release contains a standalone executable showcasing the **origin
 
 > **Note:** Please see **Release 1.1** to download and run the standalone executable (`.exe`) of the UI system.
 
+## About this Repository
+This repository contains the UI system assets and Blueprints related to the standalone menu demonstration. The full game project is not included here.
+
+## About the Full Project
+The full group project repository is currently private as of submission date. If it is made public in the future, it can be found using the link below.
+
+[Link to Full Project Repository (private)](https://github.com/University-for-the-Creative-Arts/The-Last-Drop.git)
+
 
 ## Overview
 - This build demonstrates the **Options Menu**, **Settings Persistence**, **Dynamic Materials**, **Accessibility Features**, and **Keybinding System**.
