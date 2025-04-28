@@ -2,6 +2,9 @@
 
 This repository release contains a standalone executable showcasing the **original Unreal Engine-based UI system** developed during the project.
 
+> **Note:** Please see **Release 1.1** to download and run the standalone executable (`.exe`) of the UI system.
+
+
 ## Overview
 - This build demonstrates the **Options Menu**, **Settings Persistence**, **Dynamic Materials**, **Accessibility Features**, and **Keybinding System**.
 - It is **not a full game build**. It is focused specifically on the menu and UI systems I developed and tested.
